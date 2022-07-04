@@ -1,3 +1,1 @@
-Click this link to Demo
-<br>
-https://bimoekas.github.io/
+<a href='https://bimoekas.github.io/'>Click here to Demo</a>
